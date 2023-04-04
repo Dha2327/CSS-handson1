@@ -1,0 +1,40 @@
+h1{
+color: red;
+}
+h2{
+color: red;
+font-style: italic;
+}
+
+ol{
+    color: brown;
+    line-height: 50px;
+}
+.linethrough{
+    text-decoration: line-through;
+  font-weight: bold;
+}
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.list{
+   letter-spacing: 5px;
+    color: brown;
+}
+
+.p{
+    color: brown;
+}
+
+.link{
+    background-color: yellow;
+    text-decoration: none;
+    background-size: contain;
+    font-style: italic;
+}
